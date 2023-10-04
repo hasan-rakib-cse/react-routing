@@ -1,8 +1,7 @@
 body {
   overflow: hidden;
 }
-/* Styling for the App component nav element
-and Course component course-nav div */
+/* Styling for the App component nav element and Course component course-nav div */
 .App nav,
 .courses-nav {
 	background: #f2f2f2;
@@ -13,8 +12,7 @@ and Course component course-nav div */
 	border-bottom: 2px solid #2f8d46;
 }
 
-/* Styling for App component nav element anchor
-tag and Course component nav element anchor tag */
+/* Styling for App component nav element anchor tag and Course component nav element anchor tag */
 .App nav a,
 .courses-nav a {
 	padding: 20px 20px;
@@ -25,8 +23,7 @@ tag and Course component nav element anchor tag */
 	color: #2f8d46;
 }
 
-/* Styling for Course component
-course-nav div anchor tag */
+/* Styling for Course component course-nav div anchor tag */
 .courses-nav a {
 	color: rgb(59, 117, 241);
 }

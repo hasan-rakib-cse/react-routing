@@ -3,7 +3,7 @@ import React from 'react'
 const List = () => {
   return (
     <div className='List'>
-        <h2>You are inside the List Component</h2>
+        <h2>You are inside the <span style={{color: '#3b75f1'}}>List</span> Component</h2>
         <h4>URL: localhost:3000/courses/list</h4>
     </div>
   )
