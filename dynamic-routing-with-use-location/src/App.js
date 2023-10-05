@@ -6,7 +6,8 @@ import Blogs from './components/Blogs/Blogs';
 import Blog from './components/Blog/Blog';
 import Contact from './components/Contact/Contact';
 import Error from './components/Error/Error';
-// import all the Pages here. See previous React-Router example
+import './App.css'
+
 export default function app() {
   return (
     <div>
