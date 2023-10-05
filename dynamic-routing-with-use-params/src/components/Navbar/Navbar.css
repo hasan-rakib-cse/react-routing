@@ -1,0 +1,14 @@
+.navbar {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.navbar .navlink {
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid #000;
+}
